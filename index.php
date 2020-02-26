@@ -21,7 +21,6 @@
 <!--header -->
     <header>
       <h1><img src="images/logo.jpg" width="140" height="100" ></h1>
-                
                 <ul class="nav-menu">
                       <li class="menu-has-children menu-active"><a href="index.php">Accueil </a></li>
                       <li class="menu-has-children"><a href="#">Qui sommes nous?</a>
@@ -163,7 +162,7 @@
 				<div class="cols">
 					<figure class="pad_bot2 pad_top1"><img src="images/actu1.jpg" height="150px" alt=""></figure>
 					<p class="pad_bot2">
-						<span class="font1 color2">Tomato</span><br>
+						<span class="font1 color2">Tomate</span><br>
 						<em>Sed ut perspiciatis unde omnis iste natus error.</em><br>
 					</p>
 					<a href="#" class="link1">Read More</a>
@@ -179,7 +178,15 @@
 				<div class="cols pad_left1">
 					<figure class="pad_bot2 pad_top1"><img src="images/actu4.jpg" height="150px" alt=""></figure>
 					<p class="pad_bot2">
-						<span class="font1 color2">Cucumber</span><br>
+						<span class="font1 color2">Tomate</span><br>
+						<em>Eaque ipsa quae ab illo inven- toreuia voluptas.</em><br>
+					</p>
+					<a href="#" class="link1">Read More</a>
+				</div>
+				<div class="cols pad_left1">
+					<figure class="pad_bot2 pad_top1"><img src="images/actu4.jpg" height="150px" alt=""></figure>
+					<p class="pad_bot2">
+						<span class="font1 color2">Tomate</span><br>
 						<em>Eaque ipsa quae ab illo inven- toreuia voluptas.</em><br>
 					</p>
 					<a href="#" class="link1">Read More</a>
@@ -193,9 +200,9 @@
               <h2 style="text-align: center">
                 Rejoignez-nous
               </h2>
-<div class="row">
-      <div style="background-color: #4f9608; padding: 20px" class="col-lg-12">
-        <iframe src="https://www.google.com/maps/@13.5508839,2.0885231,15z" style="width: 100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+   <div class="row">
+      <div style="background-color: #4f9608; padding: 10px" class="col-lg-12">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.8807384598886!2d2.0901718497753445!3d13.542906805703378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11da9f741f03c03f%3A0xb7df0e3b0a2a5aac!2sNigerielles!5e0!3m2!1sfr!2sne!4v1568832175108!5m2!1sfr!2sne" style="width: 100%" height="350" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
       </div>
     </div>
     <h2 style="text-align: center">
@@ -214,7 +221,10 @@
 				</div>
 				<div class="cols pad_left1">
 					<figure class="pad_bot2 pad_top1"><img src="images/page2_img3.jpg" height="150Px" alt=""></figure>
-        </div>
+                </div>
+                <div class="cols pad_left1">
+					<figure class="pad_bot2 pad_top1"><img src="images/page2_img3.jpg" height="150Px" alt=""></figure>
+                </div>
         
 		</article>
 <!-- / content -->
